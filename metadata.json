@@ -1,0 +1,6 @@
+{
+  "name": "Chroma",
+  "description": "A visually stunning color sequence deduction game",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
